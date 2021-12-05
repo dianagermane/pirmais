@@ -14,7 +14,7 @@ color:#ECECEC;
   padding: 15px 15px 15px 15px;
   width: 30%;
 }
-.poga{
+.button{
   background-color: #42135E;
   text-align: center;
   color:#ECECEC;
@@ -29,7 +29,7 @@ color:#ECECEC;
   margin-left: 450px;
   font-family: 'Trebuchet MS', monospace;
 }
-.poga:hover {opacity: 1}
+.button:hover {opacity: 1}
 
  .label {
 background-color: #42135E;
