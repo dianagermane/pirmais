@@ -29,6 +29,7 @@ color: #E89A89;
   margin-left: 220px;
   font-family: 'courier';
 }
+.button:hover {opacity: 1}
 
  .label {
 background-color: #FF5733;
